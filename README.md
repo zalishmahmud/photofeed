@@ -21,11 +21,11 @@ PhotoFeed is your one stop platform to get express yourself to the world! Initia
 3) Posting without mandatory photo attachment
 4) Commenting Feature
 5) Profile Follow System
-[![PhotoFeed](http://img.youtube.com/vi/OyQLS9YQ_Ww/0.jpg)](http://www.youtube.com/watch?v=OyQLS9YQ_Ww "PhotoFeed")
 > Technical Breakdown:
 1) Backend: Express.js
 2) Frontend: React.js
-<h2> Video </h2>
+
+# <h2> Video </h2>
 [![PhotoFeed](http://img.youtube.com/vi/OyQLS9YQ_Ww/0.jpg)](http://www.youtube.com/watch?v=OyQLS9YQ_Ww "PhotoFeed")
 > YouTube Link: https://youtu.be/OyQLS9YQ_Ww 
 
