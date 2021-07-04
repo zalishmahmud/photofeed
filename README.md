@@ -23,7 +23,7 @@ PhotoFeed is your one stop platform to get express yourself to the world! Initia
 1) Backend: Express.js
 2) Frontend: React.js
 
-> YouTube Link: https://youtu.be/OyQLS9YQ_Ww 
+# <h6> Video </h2>
 [![PhotoFeed](http://img.youtube.com/vi/OyQLS9YQ_Ww/0.jpg)](http://www.youtube.com/watch?v=OyQLS9YQ_Ww "PhotoFeed")
 
 > Team Celestials 
