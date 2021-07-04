@@ -20,8 +20,8 @@ PhotoFeed is your one stop platform to get express yourself to the world! Initia
 5) Profile Follow System
 
 > Technical Breakdown:
-Backend: Express.js
-Frontend: React.js
+1) Backend: Express.js
+2) Frontend: React.js
 
 > YouTube Link: https://youtu.be/OyQLS9YQ_Ww 
 
