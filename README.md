@@ -4,7 +4,7 @@
 <h4> Web Tech Hackathon by IEEE BracU Student Branch Chapter Society </h4>
 
 # <h2> About Us </h2>
-PhotoFeed is your onestop platform to get express yourself to the world! Intiated as a social news and photo sharing portal and inspired by the prominents social media feeds - PhotoFeed allows you to share your thoughts anywhere, anytime! Want to make your words come to life? We have got you covered! The best part is you can capture your favourite moment and share it away for the world to see! The platform has been curated to make the experience a bit more enjoyable for your connections. Anyone can upvote their favourite posts and have their fair share of appreciation!
+PhotoFeed is your one stop platform to get express yourself to the world! Initiated as a social news and photo sharing portal and inspired by the prominent social media feeds - PhotoFeed allows you to share your thoughts anywhere, anytime! Want to make your words come to life? We have got you covered! The best part is you can capture your favorite moment and share it away for the world to see! The platform has been curated to make the experience a bit more enjoyable for your connections. Anyone can upvote their favorite posts and have their fair share of appreciation!
 
 > Prominent Features (Current Status):
 1) Distinctive User Login
@@ -24,6 +24,4 @@ Backend: Express.js
 Frontend: React.js
 
 > Team Celestials 
-~ Zalish Mahmud
-~ Ahmed Ann Noor Ryen 
-~ Farishta Kabir
+~ Zalish Mahmud ~ Ahmed Ann Noor Ryen ~ Farishta Kabir
