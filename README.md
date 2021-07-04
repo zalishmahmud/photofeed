@@ -3,8 +3,6 @@
 <h3> ©2021 PhotoFeed by Team Celestials </h3>
 <h4> Web Tech Hackathon by IEEE BracU Student Branch Chapter Society </h4>
 
-<center><p><img src="https://mpng.subpng.com/20180820/pql/kisspng-react-logo-redux-webpack-babel--5b7b7258327b51.9184659615348168562068.jpg" width="200px" height="50px"></center>
-
 # <h2> About Us </h2>
 PhotoFeed is your one stop platform to get express yourself to the world! Initiated as a social news and photo sharing portal and inspired by the prominent social media feeds - PhotoFeed allows you to share your thoughts anywhere, anytime! Want to make your words come to life? We have got you covered! The best part is you can capture your favorite moment and share it away for the world to see! The platform has been curated to make the experience a bit more enjoyable for your connections. Anyone can upvote their favorite posts and have their fair share of appreciation!
 
@@ -26,7 +24,7 @@ PhotoFeed is your one stop platform to get express yourself to the world! Initia
 2) Frontend: React.js
 
 > YouTube Link: https://youtu.be/OyQLS9YQ_Ww 
-[![Watch the video](https://img.youtube.com/vi/OyQLS9YQ_Ww/maxresdefault.jpg)](https://youtu.be/OyQLS9YQ_Ww)
+[![PhotoFeed](http://img.youtube.com/vi/OyQLS9YQ_Ww/0.jpg)](http://www.youtube.com/watch?v=OyQLS9YQ_Ww "PhotoFeed")
 
 > Team Celestials 
 ~ Zalish Mahmud ~ Ahmed Ann Noor Ryen ~ Farishta Kabir
