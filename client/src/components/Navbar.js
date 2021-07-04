@@ -21,7 +21,6 @@ function Navbar({ setLoggedIn, loggedIn }) {
 
       {loggedIn ? (
         <>
-          <a href="/profile">Profile</a>
           <a onClick={logout}>Logout</a>
         </>
       ) : (

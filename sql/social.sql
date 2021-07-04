@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 04, 2021 at 05:46 AM
+-- Generation Time: Jul 04, 2021 at 02:42 PM
 -- Server version: 10.4.18-MariaDB
 -- PHP Version: 7.3.27
 
@@ -38,29 +38,9 @@ CREATE TABLE `likes` (
 --
 
 INSERT INTO `likes` (`likeid`, `username`, `postid`) VALUES
-(4, 'zalish', 8),
-(5, 'zalish', 8),
-(6, 'zalish', 8),
-(7, 'zalish', 8),
-(8, 'zalish', 8),
-(9, 'zalish', 8),
-(10, 'zalish', 9),
-(11, 'zalish', 8),
-(12, 'zalish', 8),
-(13, 'zalish', 8),
-(14, 'zalish', 9),
-(15, 'zalish', 9),
-(16, 'zalish', 8),
-(17, 'zalish', 9),
-(18, 'zalish', 9),
-(19, 'zalish', 9),
-(20, 'zalish', 9),
-(21, 'zalish', 9),
-(22, 'zalish', 9),
-(23, 'zalish', 9),
-(24, 'zalish', 11),
-(25, 'zalish', 11),
-(26, 'zalish', 11);
+(3669, 'zalish', 8),
+(3670, 'zalish', 12),
+(3675, 'zalish', 15);
 
 -- --------------------------------------------------------
 
@@ -73,17 +53,21 @@ CREATE TABLE `posts` (
   `username` varchar(50) NOT NULL,
   `image` varchar(50) NOT NULL,
   `thumbsup` int(11) NOT NULL,
-  `caption` varchar(100) NOT NULL
+  `caption` varchar(100) NOT NULL,
+  `date` varchar(50) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `posts`
 --
 
-INSERT INTO `posts` (`postid`, `username`, `image`, `thumbsup`, `caption`) VALUES
-(8, 'zalish', 'zalish1625346512825.jpg', 10, 'kiiii'),
-(9, 'zalish', 'zalish1625354457201.jpg', 10, 'okay'),
-(11, 'zalish', 'zalish1625369784844.png', 3, 'Okay');
+INSERT INTO `posts` (`postid`, `username`, `image`, `thumbsup`, `caption`, `date`) VALUES
+(15, 'zalish', 'zalish1625376005122.jpg', 1, 'chillin!', '04/07/2021'),
+(16, 'zalish', 'zalish1625376563673.png', 0, 'pepePog!', '04/07/2021'),
+(17, 'zalish', 'zalish1625377079870.png', 0, 'barraza!', '04/07/2021'),
+(18, 'zalish', 'zalish1625377249680.gif', 0, 'mike', '04/07/2021'),
+(19, 'zalish', 'zalish1625377306854.jpg', 0, 'glasses', '04/07/2021'),
+(20, 'ryen', 'ryen1625377959731.png', 0, 'style change GANs!', '04/07/2021');
 
 -- --------------------------------------------------------
 
@@ -103,7 +87,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`) VALUES
-(4, 'zalish', 'zalish@gmail.com', '1234');
+(4, 'zalish', 'zalish@gmail.com', '1234'),
+(5, 'ryen', 'ryen@gmail.com', '1234');
 
 --
 -- Indexes for dumped tables
@@ -138,19 +123,19 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `likes`
 --
 ALTER TABLE `likes`
-  MODIFY `likeid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=27;
+  MODIFY `likeid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3676;
 
 --
 -- AUTO_INCREMENT for table `posts`
 --
 ALTER TABLE `posts`
-  MODIFY `postid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+  MODIFY `postid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=21;
 
 --
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
