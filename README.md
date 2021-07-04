@@ -24,7 +24,7 @@ PhotoFeed is your one stop platform to get express yourself to the world! Initia
 2) Frontend: React.js
 
 > YouTube Link: https://youtu.be/OyQLS9YQ_Ww 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/OyQLS9YQ_Ww)
+[![Watch the video](https://img.youtube.com/vi/OyQLS9YQ_Ww/maxresdefault.jpg)](https://youtu.be/OyQLS9YQ_Ww)
 
 > Team Celestials 
 ~ Zalish Mahmud ~ Ahmed Ann Noor Ryen ~ Farishta Kabir
