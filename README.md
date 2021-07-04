@@ -1,5 +1,5 @@
 # <h2> PhotoFeed </h2>
-<p><img src="https://image.flaticon.com/icons/png/512/2065/2065157.png" width="50px" height="50px">
+<p><img src="https://image.flaticon.com/icons/png/512/2065/2065157.png" width="100px" height="100px">
 <h3> ©2021 PhotoFeed by Team Celestials </h3>
 <center><p><img src="https://lh3.googleusercontent.com/proxy/AB1kqNYZdDNwVOx0X4b7OZPOEMDR6cY4IG5G8I48ZLThx7foYINwX6lQgJaXt4IsmHzCTuVgOMxBUlLrAlL29oNTOGXeu-wGW8eU6JQ6XBN0bZU6yiQ1RaQofZ0" width="130px" height="60px"></p></center>
 <h4> Web Tech Hackathon by IEEE BracU Student Branch Chapter Society </h4>
