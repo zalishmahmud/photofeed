@@ -31,4 +31,4 @@ PhotoFeed is your one stop platform to get express yourself to the world! Initia
 >Drive Link: https://drive.google.com/drive/folders/1YrsL6slX6J5PF5dG7rk-7Q_MGGUnk3Fj?usp=sharing
 
 > Team Celestials 
-~ Zalish Mahmud ~ Ahmed Ann Noor Ryen ~ Farishta Kabir
+> Zalish Mahmud ~ Ahmed Ann Noor Ryen ~ Farishta Kabir
