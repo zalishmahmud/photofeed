@@ -1,0 +1,27 @@
+
+.createPost{
+    display: flex;
+    flex-direction: column;
+}
+
+.createPost input,button{
+    margin: 10px;
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.createPost button:hover{
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.buttonCam{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
